@@ -40,7 +40,7 @@ The robot's behavior is governed by a priority-based system to ensure ring survi
 * Mostafa Mohamed
 * Mahmood Samy
 * Moamen Mohamed
-* Maryam Mohamed
+* Mariam Mohamed
 * Menna Ramadan
 * Karim Habib
 * Ahmed Mohamed
