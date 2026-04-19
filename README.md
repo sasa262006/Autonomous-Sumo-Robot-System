@@ -23,6 +23,16 @@ The robot's behavior is governed by a priority-based system to ensure ring survi
 
 ---
 
+### 🎥 System Tests
+<p align="center">
+  <img src="Media/test1.gif" width="45%" alt="Combat Test" />
+  <img src="Media/test2.gif" width="45%" alt="Line Avoidance Test" />
+</p>
+<p align="center">
+  <i>Left: Enemy detection and attack | Right: Border avoidance and recovery</i>
+</p>
+---
+
 ## 🔌 Wiring & Pin Mapping
 | Module | Components | Pins |
 | :--- | :--- | :--- |
