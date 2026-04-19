@@ -1,0 +1,33 @@
+
+
+Motors  
+
+R_Front_IN1 = 2;   
+R_Front_IN2 = 3;   
+R_Back_IN3  = 4;   
+R_Back_IN4  = 5;  
+R_Speed_PWM = 10;  
+
+L_Front_IN1 = 6;   
+L_Front_IN2 = 7;   
+L_Back_IN3 = 8;   
+L_Back_IN4 = 9;   
+L_Speed_PWM = 11;                                                                                                                            
+
+Ultrasonic
+
+trigFront = 26;
+echoFront = 27;
+
+trigBack  = 28;
+echoBack  = 29;  
+
+IR
+
+IR_Front_Right = 22;
+IR_Front_Left  = 23;
+IR_Back_Right  = 24;
+IR_Back_Left   = 25;
+
+
+
