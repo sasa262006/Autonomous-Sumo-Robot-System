@@ -1,4 +1,7 @@
 # Autonomous Sumo Robot - Project NOVA 🤖
+<p align="center">
+  <img src="Media/robot.jpg" width="600" title="Project NOVA Sumo Robot">
+</p>
 
 A fully autonomous combat robot designed for Sumo competitions. Built with a focus on high-torque movement, low-latency sensor response, and a robust mechanical chassis.
 
