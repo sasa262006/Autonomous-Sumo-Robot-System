@@ -31,6 +31,7 @@ The robot's behavior is governed by a priority-based system to ensure ring survi
 <p align="center">
   <i>Left: Enemy detection and attack | Right: Border avoidance and recovery</i>
 </p>
+
 ---
 
 ## 🔌 Wiring & Pin Mapping
