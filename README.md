@@ -42,7 +42,7 @@ The robot's behavior is governed by a priority-based system to ensure ring survi
 | **Line Detection** | 4x IR Sensors | 22, 23, 24, 25 |
 ### 🔌 Full Wiring Diagram
 <p align="center">
-  <img src="Media/wiring_diagram.png" width="800" alt="Nova Sumo Robot Wiring Diagram">
+  <img src="Media/wiring_diagram.jpg" width="800" alt="Nova Sumo Robot Wiring Diagram">
 </p>
 
 ---
