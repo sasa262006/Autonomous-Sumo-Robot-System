@@ -40,6 +40,10 @@ The robot's behavior is governed by a priority-based system to ensure ring survi
 | **Drivetrain** | 4x Motors (Right/Left) | **R:** 2,3,4,5,10(PWM) | **L:** 6,7,8,9,11(PWM) |
 | **Object Sensing** | Front & Back Ultrasonic | **F:** 26(T), 27(E) | **B:** 28(T), 29(E) |
 | **Line Detection** | 4x IR Sensors | 22, 23, 24, 25 |
+### 🔌 Full Wiring Diagram
+<p align="center">
+  <img src="Media/wiring_diagram.png" width="800" alt="Nova Sumo Robot Wiring Diagram">
+</p>
 
 ---
 
